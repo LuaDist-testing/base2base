@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "base2base"
-version = "0.1-1"
+version = "0.2-1"
 
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.2-1",
   url = "git://github.com/LuaDist-testing/base2base.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/catwell/base2base.git",
---     branch = "v0.1",
+--     branch = "v0.2",
 -- }
 
 description = {
