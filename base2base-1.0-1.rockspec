@@ -1,9 +1,18 @@
-package = "base2base"
-version = "scm-1"
+-- This file was automatically generated for the LuaDist project.
 
+package = "base2base"
+version = "1.0-1"
+
+-- LuaDist source
 source = {
-    url = "git://github.com/catwell/base2base.git",
+  tag = "1.0-1",
+  url = "git://github.com/LuaDist-testing/base2base.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/catwell/base2base.git",
+--     branch = "v1.0",
+-- }
 
 description = {
     summary = "A base-to-base converter",

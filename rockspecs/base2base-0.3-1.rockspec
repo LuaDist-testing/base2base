@@ -1,8 +1,9 @@
 package = "base2base"
-version = "scm-1"
+version = "0.3-1"
 
 source = {
     url = "git://github.com/catwell/base2base.git",
+    branch = "v0.3",
 }
 
 description = {
